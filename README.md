@@ -13,3 +13,4 @@ Nosotros desarrollamos este algoritmo, utilizando la PDUA lo implementamos y el 
 ![image](https://user-images.githubusercontent.com/98425604/172175990-214b7b75-0384-4729-b716-52a90780e58b.png)
 
 Donde array_reg(3) corresponde a 'A' y array_reg(7) corresponde a 'ACC' y el resultado es 'ACC''A', por ende quería: 00100110 01000000 lo cual a el mismo resultado del algoritmo de booth realizado de manera manual.
+El funcionamiento completo de este proyecto se puede observar en el siguientes video: https://www.youtube.com/watch?v=ZcV_91vtmek
